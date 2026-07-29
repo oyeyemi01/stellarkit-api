@@ -1,0 +1,18 @@
+{
+  "default_branch": "feat/619-account-can-send-endpoint",
+  "branches": [
+    "feat/619-account-can-send-endpoint",
+    "feat/619-can-send-endpoint",
+    "origin"
+  ],
+  "parent": {
+    "feat/619-account-can-send-endpoint": null,
+    "feat/619-can-send-endpoint": "feat/619-account-can-send-endpoint",
+    "origin": "feat/619-account-can-send-endpoint"
+  },
+  "order": [
+    "feat/619-account-can-send-endpoint",
+    "feat/619-can-send-endpoint",
+    "origin"
+  ]
+}
